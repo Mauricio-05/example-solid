@@ -1,0 +1,20 @@
+{
+  "name": "example-solid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:01": "tsx 01-singleResponsibility.ts",
+    "start:02": "tsx 02-openClose.ts",
+    "start:03": "tsx 03-liskovSustitution.ts",
+    "start:04": "tsx 04-interfacesSegregation.ts",
+    "start:05": "tsx 05-dependencyInversion.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  }
+}
